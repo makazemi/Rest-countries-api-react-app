@@ -30,9 +30,7 @@ Users should be able to:
 ![](./public/screenshot.png)
 
 ### Links
-
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [show countries](https://show-countries.onrender.com/)
 
 ## My process
 
